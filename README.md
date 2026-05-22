@@ -1,4 +1,5 @@
-# Retail-Sales-Dashboard-Project
-Tools: Microsoft Power BI, DAX, Microsoft Power Query
+E-commerce Sales & Customer Behavior Analysis
 
-Built an interactive Power BI retail sales dashboard using a star schema model and DAX measures to analyze sales performance, revenue trends, and customer insights. 
+Analyzed an e-commerce dataset using Python to explore sales performance, customer behavior, and product trends with EDA and visualization to generate actionable business insights and recommendations.
+
+Tools: Python, Pandas, NumPy, Matplotlib, Seaborn
